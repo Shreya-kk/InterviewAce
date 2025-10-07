@@ -11,7 +11,7 @@ scikit-learn==1.5.0
 openai==1.30.5
 python-dotenv==1.0.1
 opencv-python-headless==4.10.0.84
-reportlab==4.1.1
+reportlab
 Pillow==10.3.0
 email-validator==2.1.1
 tenacity==9.0.0
@@ -19,4 +19,5 @@ Flask-Session==0.9.0
 pandas==2.2.2
 requests==2.32.3
 python-multipart==0.0.9
+
 gunicorn==22.0.0
